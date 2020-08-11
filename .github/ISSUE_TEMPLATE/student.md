@@ -1,12 +1,12 @@
 ---
-name: 学生
+name: 在校学生
 about: 自助添加友链
 title: https://
 labels: 'student'
 assignees: ''
 
 ---
-<!-- 学生 -->
+<!-- 在校学生 -->
 ```yaml
 name:
 avatar:
