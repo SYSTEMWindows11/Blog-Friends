@@ -1,15 +1,15 @@
 ---
-name: 教师或学生
+name: 教师
 about: 自助添加友链
 title: https://
-labels: 'edu'
+labels: 'teacher'
 assignees: ''
 
 ---
-<!-- 教师或学生 -->
+<!-- 教师 -->
 ```yaml
 name:
-avatar: 
+avatar:
 tags: [标签1, 标签2]
 desc: 描述
 ```
