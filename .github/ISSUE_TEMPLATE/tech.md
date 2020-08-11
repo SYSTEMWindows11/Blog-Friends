@@ -1,12 +1,12 @@
 ---
-name: 职业教师
-about: 自助添加友链
+name: 技术行业
+about: 开发者、工程师
 title: https://
-labels: 'teacher'
+labels: 'tech'
 assignees: ''
 
 ---
-<!-- 职业教师 -->
+<!-- 开发者、工程师 -->
 ```yaml
 name:
 avatar:

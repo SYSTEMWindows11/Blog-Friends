@@ -1,15 +1,15 @@
 ---
-name: 设计师
-about: 自助添加友链
+name: 组织和机构
+about: 公益组织
 title: https://
-labels: 'designer'
+labels: 'org'
 assignees: ''
 
 ---
-<!-- 设计师 -->
+<!-- 公益组织 -->
 ```yaml
 name:
 avatar:
 tags: [标签1, 标签2]
-desc: 
+desc:
 ```
