@@ -1,15 +1,15 @@
 ---
-name: 摄影师
+name: 教师或学生
 about: 自助添加友链
 title: https://
-labels: 'photographer'
+labels: 'edu'
 assignees: ''
 
 ---
-<!-- 摄影师 -->
+<!-- 教师或学生 -->
 ```yaml
 name:
-avatar:
+avatar: 
 tags: [标签1, 标签2]
 desc: 描述
 ```

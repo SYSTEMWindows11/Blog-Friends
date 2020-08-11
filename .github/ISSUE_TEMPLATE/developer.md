@@ -7,5 +7,9 @@ assignees: ''
 
 ---
 <!-- 开发者 -->
-<b>友链名称</b>
-<p>标签或描述</p>
+```yaml
+name:
+avatar:
+tags: [标签1, 标签2]
+desc: 描述
+```
