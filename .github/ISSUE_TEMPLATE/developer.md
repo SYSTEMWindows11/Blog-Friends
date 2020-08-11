@@ -11,5 +11,5 @@ assignees: ''
 name:
 avatar:
 tags: [标签1, 标签2]
-desc: 描述
+desc: 
 ```
