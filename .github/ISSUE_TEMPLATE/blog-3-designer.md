@@ -1,12 +1,12 @@
 ---
-name: 组织与机构
-about: 非营利性组织
+name: 个人博客：设计师
+about: 拥有独立域名的个人博客
 title: https://
-labels: 'org'
+labels: 'designer'
 assignees: ''
 
 ---
-<!-- 组织与机构 -->
+<!-- 个人博客：设计师 -->
 ```yaml
 name:
 avatar:
