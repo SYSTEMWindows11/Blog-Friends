@@ -1,7 +1,7 @@
 ---
 name: 新友链模板
 about: 请遵守 JSON 格式，在双引号中填写。
-title: https://
+title: 
 labels: ''
 assignees: ''
 
