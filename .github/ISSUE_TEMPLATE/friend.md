@@ -14,7 +14,6 @@ assignees: ''
     "avatar": "",
     "screenshot": "",
     "description": "",
-    "keywords": ""
 }
 ```
 
